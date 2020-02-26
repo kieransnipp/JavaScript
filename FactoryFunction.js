@@ -2,7 +2,7 @@
 function createCircleRadius(radius){
     
     const circle = {
-        radius : radius,
+        radius : radius, 
         draw(){
             console.log('draw it now');
         } //End draw
