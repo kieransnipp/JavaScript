@@ -66,7 +66,7 @@ let currentColor = userColor+' , '+ defaultColor;
 console.log('Color is ='+currentColor);
 
 //Bitwise
-//1, = 00000001
+//1, = 00000001 
 //2, = 00000010
 //3, = 00000011
 console.log(1 | 2); 
@@ -74,7 +74,7 @@ console.log(1 & 2);
 
 //Operator presidence
 console.log((2+3)*4);
-
+ 
 
 let a = 10;
 let b = 20;
