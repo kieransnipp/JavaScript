@@ -10,7 +10,7 @@
 //     console.log('You entered an incorect value')
 // }
 
-/////////////////
+///////////////// 
 // a = 100;
 // b = 200;
 // c = 300;
